@@ -1,0 +1,23 @@
+CPT Projects:
+https://github.com/topics/cisco-packet-tracer
+https://github.com/topics/cisco-packet-tracer?o=asc&s=stars
+https://github.com/topics/packet-tracer?o=desc&s=updated
+https://github.com/topics/cisco-packet-tracer?o=desc&s=updated
+
+Chal-dal-networking:
+https://github.com/imsiddhant/Computer-Networking-Project-1
+
+Microsoft-networking:
+https://github.com/HxnDev/CISCO-Packet-Tracer---Design-A-Complete-Network-With-All-Routing-Protocols-And-Servers
+
+University-networking:
+https://github.com/riyadatik/A-University-Network-using-Cisco-Packet-Tracer-
+
+Bank-networking:
+https://github.com/unkn0wnP/Network-Of-Bank
+
+Aggregation-networking:
+https://github.com/KPB1331/Link-Aggregation-In-CPT
+
+Irrigation-networking:
+https://github.com/idiotboxai/Smart-irrigation-system
